@@ -1,0 +1,9 @@
+{
+    "name": "TestMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "OpenSlots is a mod that lets you place any items anywhere.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.75301"
+    ]
+}

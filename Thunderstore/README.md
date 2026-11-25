@@ -1,0 +1,1 @@
+OpenSlots is a mod that lets you place any items anywhere.
